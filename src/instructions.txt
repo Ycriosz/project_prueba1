@@ -1,0 +1,7 @@
+Agregar todos los recursos: pej.
+en el front, los iconos, las imagenes, etc
+logica
+estructura
+desarrollo
+
+front y back
